@@ -16,10 +16,6 @@ For instance, I ranked the 1st (out of 300) in Gary's CSE110 and 6th (out of 180
 these review docs helped me a lot. My current overall GPA is 3.97/4.0.
 
 ### Review Doc Lists
-* Introduction to Java Programming: CSE8B, Yingjun Cao, Winter 2019
-* Data Structures: CSE12, Gary Gillespie, Spring 2017
-* Software Tools: CSE15L, Gary Gillespie, Spring 2017
-* Computer Organization and Architecture: CSE30, Politz Joseph Gibbs, Fall 2017
 * Advanced Data Structures: CSE100, Leo Porter, Winter 2018
 * Algorithm: CSE101, Miles Jones, Spring 2018
 * Theory of Computation: CSE105, Mia Minnes, Spring 2018
