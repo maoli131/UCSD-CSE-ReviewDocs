@@ -12,7 +12,7 @@ when we prepares for our career upon graduation.
 
 ### Let us show off a little bit..
 We got all A/A+ in these coureses, and in most of these courses we ranked top 10 or 20 in the entire 300 students class.
-For instance, I ranked the 1st (out of 300) in Gary's CSE110 and 6th (out of 180) in Vianu's CSE132A. I felt
+For instance, I ranked the 1st (out of 300) in Gary's CSE110 and 8th (out of 180) in Vianu's CSE132A. I felt
 these review docs helped me a lot. My current overall GPA is 3.97/4.0.
 
 ### Review Doc Lists
