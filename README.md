@@ -39,6 +39,9 @@ Our **personal favorite** includes the review docs for **CSE110, CSE120, CSE132A
 * Posting homework, exams, quizzes sometimes violates academic integrity, so we decided not to post any.
 * Course material may subject to copyright to the original instructor.
 
+### Helpful Links
+* UCSD Open [Notes](https://sites.google.com/site/ucsdlecturenotes/home) by [Niema Moshiri](https://niema.net/)
+
 ### Contribution
 Feel free to contribute any course with your own review doc/additional materials/comments. This is an on-going project which
 we hopes could include all CSE courses by all instructors.
