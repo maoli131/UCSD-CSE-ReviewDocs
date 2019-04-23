@@ -26,10 +26,11 @@ these review docs helped me a lot. My current overall GPA is 3.97/4.0.
 * Software Engineering: CSE110, Gary Gillespie, Fall 2018
 * Operating System: CSE120, Pasquale Joseph, Winter 2019
 * Database: CSE132A, Vianu Victor Dan, Winter 2019
+* Digital Design: CSE140, C.K. Cheng, Spring 2016
 * *Machine Learning: CSE151, Sanjoy, Winter 2019 - TODO*
 * *Artificial Intelligence: CSE150, Alvarado & Sicun, Winter19&Fall18 - TODO*
 * Recommendar System: CSE158, McAuley Julian John, Fall 2018
-* *CSE140, CSE124, CSE127, etc. - TODO* 
+* *CSE124, CSE127, etc. - TODO* 
 
 Our **personal favorite** includes the review docs for **CSE110, CSE120, CSE132A**. 
 
@@ -37,7 +38,7 @@ Our **personal favorite** includes the review docs for **CSE110, CSE120, CSE132A
 * Some earilier doc's formats are poor, but they improved a lot as we progress into our junior/senior year.
 * Review Docs are most useful when you are taking the same class from the same instructor; but the general content are the same even for different instructors, so you may also find them helpful.
 * Posting homework, exams, quizzes sometimes violates academic integrity, so we decided not to post any.
-* Course material may subject to copyright to the original instructor.
+* Course material may subject to copyright of the original instructor.
 
 ### Helpful Links
 * UCSD Open [Notes](https://sites.google.com/site/ucsdlecturenotes/home) by [Niema Moshiri](https://niema.net/)
