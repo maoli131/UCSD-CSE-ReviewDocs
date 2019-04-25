@@ -42,6 +42,7 @@ Our **personal favorite** includes the review docs for **CSE110, CSE120, CSE132A
 
 ### Helpful Links
 * UCSD Open [Notes](https://sites.google.com/site/ucsdlecturenotes/home) by [Niema Moshiri](https://niema.net/)
+* Another mostly Markdown files based [review doc](https://github.com/yeelimtse/UCSD-review-docs) by [Yilin](https://github.com/yeelimtse).
 
 ### Contribution
 Feel free to contribute any course with your own review doc/additional materials/comments. This is an on-going project which
