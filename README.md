@@ -41,6 +41,12 @@ Our **personal favorite** includes the review docs for **CSE110, CSE120, CSE132A
 * Course material may subject to copyright of the original instructor.
 
 ### Helpful Links
+* [Top university's online course materials](https://github.com/prakhar1989/awesome-courses)
+  * This repo is amazing. It collects all publicly available online cs course materials from Stanford, MIT, UCB, etc.
+  * You can literally learn the entire undergraduate/graduate css curriculum using these resosurces.
+* [Coding Interview Masterpack](https://github.com/jwasham/coding-interview-university)
+  * This repo provides a complete study plan and all related online resources to help anyone without cs background to 
+  * become a top software engineer and crack the FLAG interviews. 
 * [Leetcode Questions Summary and Review](https://github.com/maoli131/Leetcode) Notes by [M. L](https://www.li-mao.net)
 * UCSD Open [Notes](https://sites.google.com/site/ucsdlecturenotes/home) by [Niema Moshiri](https://niema.net/)
 * Another mostly Markdown files based [review doc](https://github.com/yeelimtse/UCSD-review-docs) by [Yilin](https://github.com/yeelimtse).
