@@ -16,6 +16,7 @@ For instance, I ranked the 1st (out of 300) in Gary's CSE110 and 8th (out of 180
 these review docs helped me a lot. My current overall GPA is 3.97/4.0.
 
 ### Review Doc Lists
+* (**Newly Updated**) Designing Data Intensive Applications, Martin Kleppmann, 2019
 * Introduction to Java Programming: CSE8B, Yingjun Cao, Winter 2019
 * Data Structures: CSE12, Gary Gillespie, Spring 2017
 * Software Tools: CSE15L, Gary Gillespie, Spring 2017
