@@ -26,12 +26,13 @@ these review docs helped me a lot. My current overall GPA is 3.97/4.0.
 * Theory of Computation: CSE105, Mia Minnes, Spring 2018
 * Software Engineering: CSE110, Gary Gillespie, Fall 2018
 * Operating System: CSE120, Pasquale Joseph, Winter 2019
+* Computer Security: CSE127, Deian Stefan & Nadia Heninger, Fall 2019
 * Database: CSE132A, Vianu Victor Dan, Winter 2019
 * Digital Design: CSE140, C.K. Cheng, Spring 2016
 * *Machine Learning: CSE151, Sanjoy, Winter 2019 - TODO*
 * *Artificial Intelligence: CSE150, Alvarado & Sicun, Winter19&Fall18 - TODO*
 * Recommendar System: CSE158, McAuley Julian John, Fall 2018
-* *CSE124, CSE127, etc. - TODO* 
+* *CSE124, 140, 141 etc. - TODO* 
 
 Our **personal favorite** includes the review docs for **CSE110, CSE120, CSE132A**. 
 
