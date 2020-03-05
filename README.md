@@ -16,7 +16,7 @@ For instance, I ranked the 1st (out of 300) in Gary's CSE110 and 8th (out of 180
 these review docs helped me a lot. My current overall GPA is 3.97/4.0.
 
 ### Review Doc Lists
-* (**Newly Updated**) Designing Data Intensive Applications, Martin Kleppmann, 2019
+* Designing Data Intensive Applications, Martin Kleppmann, 2019
 * Introduction to Java Programming: CSE8B, Yingjun Cao, Winter 2019
 * Data Structures: CSE12, Gary Gillespie, Spring 2017
 * Software Tools: CSE15L, Gary Gillespie, Spring 2017
@@ -29,10 +29,11 @@ these review docs helped me a lot. My current overall GPA is 3.97/4.0.
 * Computer Security: CSE127, Deian Stefan & Nadia Heninger, Fall 2019
 * Database: CSE132A, Vianu Victor Dan, Winter 2019
 * Digital Design: CSE140, C.K. Cheng, Spring 2016
+* Introduction to Computer Architecture, CSE141, Leo Porter & Swanson, Winter 2020
 * *Machine Learning: CSE151, Sanjoy, Winter 2019 - TODO*
 * *Artificial Intelligence: CSE150, Alvarado & Sicun, Winter19&Fall18 - TODO*
 * Recommendar System: CSE158, McAuley Julian John, Fall 2018
-* *CSE124, 140, 141 etc. - TODO* 
+* *CSE123, 124, 112 etc. - TODO* 
 
 Our **personal favorite** includes the review docs for **CSE110, CSE120, CSE132A**. 
 
